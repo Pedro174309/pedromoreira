@@ -10,19 +10,19 @@ Transformando dados em insights estratégicos para tomada de decisão.
 
 ### Server Cost & Consumption Analysis
 Análise de custos de infraestrutura com dashboard executivo em Power BI.
-🔗 [Ver Projeto](link)
+🔗 [Ver Projeto](https://github.com/Pedro174309/server-cost-analysis-powerbi)
 
 ---
 
 ### Sales Analysis – Python & Power BI
 Exploração de dados comerciais com Python e visualização estratégica em Power BI.
-🔗 [Ver Projeto](link)
+🔗 [Ver Projeto](https://github.com/Pedro174309/sales-analysis-python-powerbi)
 
 ---
 
 ### Churn Prediction – R
 Modelo preditivo com regressão logística regularizada (Lasso) e validação cruzada.
-🔗 [Ver Projeto](link)
+🔗 [Ver Projeto](https://github.com/Pedro174309/churn-prediction-r)
 
 ---
 
@@ -40,3 +40,4 @@ Modelo preditivo com regressão logística regularizada (Lasso) e validação cr
 
 LinkedIn: https://www.linkedin.com/in/pedro-moreira-54ab3015b/ 
 Email: pedro174309@gmail.com
+
